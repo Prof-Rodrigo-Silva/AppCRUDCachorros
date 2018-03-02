@@ -1,0 +1,137 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:design:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/1c2ee1c25e32e478ca21cb6797e9b8e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/8b6b2fe1044daac3d2fee12c0b9ddba4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/9b41fe074f53d1509cd141a2a89cd513/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/131ff3a965060434e546f1865ff0edf5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/96731c00c25af75085cdd7491cb689e1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/2d5fe599b92dcf30bd1e913616a049a3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/7780bcaf40b8c0d2684e4a7d54af0646/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/caf14f818e3c00b483c46d6218e9286a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/9c194c15baa6bc3916e109f2233a413f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/85517b8cbc6ac36205425f76d1f6fe3c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/99f1f4fba7ef42097a45dad340999fa3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/32ee528e56e5346a0a11517dcb21f977/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/9e70cd96362ec028cf97bb915038e34e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/955b34696d579a43fd99a5dc8566f826/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d2a1eb10df94496515d1c5e62bc920c6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ba38f88d2bee7324a1e53207a08da89b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0e347d1e3c87dc41305467c78d79c62f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/345d9e58f8c2580ce27250abf57b94df/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:3:5-54
+		INJECTED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml
+		ADDED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml
+		ADDED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/96731c00c25af75085cdd7491cb689e1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/96731c00c25af75085cdd7491cb689e1/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.rodrigo.a5tads_cachorrosmvp.Activity_Tela_Inicial
+ADDED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:12:19-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.rodrigo.a5tads_cachorrosmvp.Cadastrar
+ADDED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:19:9-47
+	android:name
+		ADDED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:19:19-44
+activity#com.example.rodrigo.a5tads_cachorrosmvp.Editar_Excluir
+ADDED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:20:9-52
+	android:name
+		ADDED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:20:19-49
+activity#com.example.rodrigo.a5tads_cachorrosmvp.ListViewActivity
+ADDED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:21:9-54
+	android:name
+		ADDED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:21:19-51
+activity#com.example.rodrigo.a5tads_cachorrosmvp.ListaRecyclerActivity
+ADDED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:22:9-68
+	android:name
+		ADDED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml:22:19-56
+uses-sdk
+INJECTED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml
+INJECTED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/1c2ee1c25e32e478ca21cb6797e9b8e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/1c2ee1c25e32e478ca21cb6797e9b8e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/8b6b2fe1044daac3d2fee12c0b9ddba4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/8b6b2fe1044daac3d2fee12c0b9ddba4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/9b41fe074f53d1509cd141a2a89cd513/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/9b41fe074f53d1509cd141a2a89cd513/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/131ff3a965060434e546f1865ff0edf5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/131ff3a965060434e546f1865ff0edf5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/96731c00c25af75085cdd7491cb689e1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/96731c00c25af75085cdd7491cb689e1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/2d5fe599b92dcf30bd1e913616a049a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/2d5fe599b92dcf30bd1e913616a049a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/7780bcaf40b8c0d2684e4a7d54af0646/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/7780bcaf40b8c0d2684e4a7d54af0646/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/caf14f818e3c00b483c46d6218e9286a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/caf14f818e3c00b483c46d6218e9286a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/9c194c15baa6bc3916e109f2233a413f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/9c194c15baa6bc3916e109f2233a413f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/85517b8cbc6ac36205425f76d1f6fe3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/85517b8cbc6ac36205425f76d1f6fe3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/99f1f4fba7ef42097a45dad340999fa3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/99f1f4fba7ef42097a45dad340999fa3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/32ee528e56e5346a0a11517dcb21f977/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/32ee528e56e5346a0a11517dcb21f977/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/9e70cd96362ec028cf97bb915038e34e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/9e70cd96362ec028cf97bb915038e34e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/955b34696d579a43fd99a5dc8566f826/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/955b34696d579a43fd99a5dc8566f826/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d2a1eb10df94496515d1c5e62bc920c6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d2a1eb10df94496515d1c5e62bc920c6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ba38f88d2bee7324a1e53207a08da89b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ba38f88d2bee7324a1e53207a08da89b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0e347d1e3c87dc41305467c78d79c62f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0e347d1e3c87dc41305467c78d79c62f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/345d9e58f8c2580ce27250abf57b94df/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/rodrigo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/345d9e58f8c2580ce27250abf57b94df/AndroidManifest.xml:20:5-44
+INJECTED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml
+INJECTED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml
+		ADDED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml
+		ADDED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/src/main/AndroidManifest.xml

@@ -1,0 +1,4 @@
+#Mon Nov 27 21:16:37 BRST 2017
+base.0=/home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/build/intermediates/transforms/dexMerger/debug/10
+renamed.0=classes.dex
+file.0=/home/rodrigo/AndroidStudioProjects/5TADSCachorrosMVP/app/build/intermediates/transforms/dexMerger/debug/10/classes.dex
